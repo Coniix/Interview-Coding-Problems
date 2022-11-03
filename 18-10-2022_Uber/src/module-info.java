@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author conor
+ *
+ */
+module NewProject {
+}
